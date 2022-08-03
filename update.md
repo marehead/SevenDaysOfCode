@@ -6,6 +6,7 @@
 -criei esse repositório
 ## DIA 2
 subi arquivo em html e css do git para github
+
 ##DIA 3
 ##DIA 3
 ##DIA 4
