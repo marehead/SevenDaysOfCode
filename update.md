@@ -1,10 +1,10 @@
 # SevenDaysOfCode 
 
-#7DaysOfCode de Github
+# 7DaysOfCode de Github
 
-##DIA 1
+## DIA 1
 -criei esse repositório
-##DIA 2
+## DIA 2
 subi arquivo em html e css do git para github
 ##DIA 3
 ##DIA 3
