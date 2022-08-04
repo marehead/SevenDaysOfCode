@@ -10,7 +10,7 @@
 -edit arquivo markdown .md
 
 ##DIA 3
-
+Renomear arquivos e nomes
 ##DIA 4
 
 ##DIA 5
