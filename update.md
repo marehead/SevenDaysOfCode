@@ -3,10 +3,11 @@
 # 7DaysOfCode de Github
 
 ## DIA 1
--criei esse repositório
+-Criei esse repositório
 ## DIA 2
--arquivo em html e css do git para github
--edit arquivo markdown #md
+-Arquivo em html e css do git para github
+
+-edit arquivo markdown .md
 
 ##DIA 3
 
