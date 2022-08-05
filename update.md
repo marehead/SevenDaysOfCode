@@ -1,19 +1,27 @@
-# SevenDaysOfCode 
+# SevenDaysOfCode github complete all 4/7 and 🛫🛫🛫
 
 # 7DaysOfCode de Github
 
-## DIA 1
--Criei esse repositório
-## DIA 2
--Arquivo em html e css do git para github
+## Day Day One ✔️
 
--edit arquivo markdown .md
+-create this repository
 
-##DIA 3
-Renomear arquivos e nomes
-##DIA 4
+## Day Two ✔️
+-Archive in html and css of git to github
+-edit archhive (markdown) .md
 
-##DIA 5
-##DIA 6
-##DIA 7
+## Day Three ✔️
+Clone repositor through the command git clone + repository link
+Rename archives and names
 
+## Day Four ✔️
+
+translate to inglês this repository
+edit index.html, css modify e add images e texts
+
+
+##Day Five
+
+##day Six
+
+##day Seven
