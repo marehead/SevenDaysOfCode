@@ -14,7 +14,7 @@
 Clone repositor through the command git clone + repository link
 Rename archives and names
 
-## Day Four
+## Day Four ✔️
 
 translate to inglês this repository
 edit index.html, css modify e add images e texts
