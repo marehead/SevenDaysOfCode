@@ -4,23 +4,25 @@
 
 ## Day Day One ✔️
 
--create this repository
+- create this repository
 
 ## Day Two ✔️
--Archive in html and css of git to github
--edit archhive (markdown) .md
+- Archive in html and css of git to github
+- edit archhive (markdown) .md
 
 ## Day Three ✔️
-Clone repositor through the command git clone + repository link
-Rename archives and names
+- Clone repositor through the command git clone + repository link
+- Rename archives and names
 
 ## Day Four ✔️
 
-translate to inglês this repository
-edit index.html, css modify e add images e texts
+- translate to inglês this repository
+- edit index.html, css modify e add images e texts
 
 
-##Day Five
+## Day Five
+
+- Revertendo commit erro no commit/merge
 
 ##day Six
 
