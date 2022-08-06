@@ -1,4 +1,4 @@
-# SevenDaysOfCode github complete all 5/7 and 
+# SevenDaysOfCode github complete all 4/7 and 
 
 # 7DaysOfCode de Github
 
@@ -23,7 +23,8 @@
 ## Day Five
 
 - Revertendo commit erro no commit/merge
-
-##day Six
+- [LinkVideoToHelp](https://www.youtube.com/watch?v=hISBlHMb-0Y&list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6&index=7) 
+- 
+## Day Six
 
 ##day Seven
