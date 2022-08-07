@@ -2,13 +2,13 @@
 
 # 7DaysOfCode de Github
 
-## Day Day One ✔️
+## Day One ✔️
 
--create this repository
+- create this repository
 
 ## Day Two ✔️
--Archive in html and css of git to github
--edit archhive (markdown) .md
+- Archive in html and css of git to github
+- edit archhive (markdown) .md
 
 ## Day Three ✔️
 Clone repositor through the command git clone + repository link
@@ -32,6 +32,7 @@ edit index.html, css modify e add images e texts
 - resolver esse [conflito.img](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/SevenDaysOfCode/conflito.jpg) e fazer um commit do resultado do seu "merge"
 
 ### Git pull origin main: 
+
 * Accept Current Change: você escolhe ficar com a versão aberta no seu Visual Studio Code
 * Accept Incoming Change: você escolhe ficar com a versão que está sendo baixada através do "Pull"
 * Accept Both Changes: você aceita ambas as alterações
