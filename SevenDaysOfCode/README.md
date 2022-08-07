@@ -29,6 +29,6 @@ edit index.html, css modify e add images e texts
 ##day Six
 
 -  Resolvendo um conflito
-- resolver esse [conflito.img]() e fazer um commit do resultado do seu "merge"
+- resolver esse [conflito.img](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/SevenDaysOfCode/conflito.jpg) e fazer um commit do resultado do seu "merge"
 
 ##day Seven
