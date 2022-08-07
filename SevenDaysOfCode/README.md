@@ -1,4 +1,4 @@
-# SevenDaysOfCode complete all 6/7 
+# SevenDaysOfCode complete all 7/7 
 
 # 7DaysOfCode de Github
 
@@ -29,7 +29,7 @@ edit index.html, css modify e add images e texts
 ## day Six 
 
 -  Resolvendo um conflito
-- resolver esse [conflito.img](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/SevenDaysOfCode/conflito.jpg) e fazer um commit do resultado do seu "merge"
+- resolver esse [conflito.img](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/SevenDaysOfCode/conflito.jpg) e fazer um commit do resultado em "merge"
 
 ### Git pull origin main: 
 
@@ -40,4 +40,6 @@ edit index.html, css modify e add images e texts
 
 ## day Seven ✔️
 
-Fazendo o deploy no GitHub Pages
+* Fazendo o deploy no GitHub Pages da pagina de Filmes
+
+link[]()
