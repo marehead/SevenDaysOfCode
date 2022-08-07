@@ -1,7 +1,7 @@
 # 7SevenDaysOfCode 
 
 
-* [SevenDaysOfCode - GitHub ](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/update.md)[page-deploy](file:///C:/Users/m.lopes.dos.santos/Desktop/SevenDaysOfCode/index.html)
+* [SevenDaysOfCode - GitHub ](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/update.md) [Page - deploy](https://github.com/mlopezlr/SevenDaysOfCode/index.html)
 * SevenDaysOfCode - Python [here]()
 * SevenDaysOfCode - Lógica com Javascript [here]()
 * SevenDaysOfCode - HTML e CSS [here]()
