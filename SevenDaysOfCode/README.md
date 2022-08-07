@@ -1,4 +1,4 @@
-# SevenDaysOfCode complete all 4/7 and 🛫🛫🛫
+# SevenDaysOfCode complete all 6/7 
 
 # 7DaysOfCode de Github
 
@@ -16,12 +16,19 @@ Rename archives and names
 
 ## Day Four ✔️
 
-translate to inglês this repository
+- A primeira parte do seu desafio de hoje será alterar o arquivo "index.html" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente.
+- translate to inglês this repository
 edit index.html, css modify e add images e texts
+- realizar o commit dessas alterações que você fez no código.Você fará o commit diretamente a partir da aba "Source Control" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações. 
 
+##Day Five ✔️
 
-##Day Five
+- Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master
+- remover o erro do seu código na master
 
 ##day Six
+
+-  Resolvendo um conflito
+- resolver esse [conflito.img]() e fazer um commit do resultado do seu "merge"
 
 ##day Seven
