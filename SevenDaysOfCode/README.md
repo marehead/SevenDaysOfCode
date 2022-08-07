@@ -38,4 +38,6 @@ edit index.html, css modify e add images e texts
 * Accept Both Changes: você aceita ambas as alterações
 * Compare Changes: o Visual Studio Code abre uma outra tela para você ver as duas versões lado a lado
 
-## day Seven
+## day Seven ✔️
+
+Fazendo o deploy no GitHub Pages
