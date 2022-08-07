@@ -41,5 +41,4 @@ edit index.html, css modify e add images e texts
 ## day Seven ✔️
 
 * Fazendo o deploy no GitHub Pages da pagina de Filmes
-
-link[]()
+[Link Page - deploy](https://github.com/mlopezlr/SevenDaysOfCode/index.html)
