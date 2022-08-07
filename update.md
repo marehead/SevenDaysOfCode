@@ -26,12 +26,12 @@ edit index.html, css modify e add images e texts
 - Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master
 - remover o erro do seu código na master
 
-## day Six 
+## day Six ✔️
 
 -  Resolvendo um conflito
 - resolver esse [conflito.img](https://github.com/mlopezlr/SevenDaysOfCode/blob/main/SevenDaysOfCode/conflito.jpg) e fazer um commit do resultado em "merge"
 
-### Git pull origin main: 
+### Git pull origin main: ✔
 
 * Accept Current Change: você escolhe ficar com a versão aberta no seu Visual Studio Code
 * Accept Incoming Change: você escolhe ficar com a versão que está sendo baixada através do "Pull"
